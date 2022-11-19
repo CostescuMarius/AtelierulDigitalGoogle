@@ -1,4 +1,4 @@
-package basics.ch3;
+package basics.ch2;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package basics.ch3;
-
-import java.util.Objects;
+package basics.ch2;
 
 public class Pair {
     private int value1;
